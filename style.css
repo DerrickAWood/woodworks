@@ -1,0 +1,14 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.no-gutters{
+  padding: 0;
+}
+
+.ht-title{
+  font-size: 2rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
